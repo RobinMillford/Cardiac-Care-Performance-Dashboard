@@ -1,0 +1,18 @@
+[theme]
+# A vibrant cyan for interactive widgets and primary highlights
+primaryColor="#00BFFF"
+
+# Pure black background
+backgroundColor="#000000"
+
+# A slightly lighter dark gray for sidebars and other elements
+secondaryBackgroundColor="#1A1A1A"
+
+# Light text for high contrast and readability on dark backgrounds
+textColor="#FAFAFA"
+
+font="serif"
+
+[server]
+enableStaticServing = true
+runOnSave = true
