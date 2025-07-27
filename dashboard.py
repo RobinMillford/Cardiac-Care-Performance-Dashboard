@@ -489,3 +489,15 @@ st.plotly_chart(fig_ci_width, use_container_width=True)
 
 st.markdown("---")
 st.info("Data source: Cardiac Surgery and Percutaneous Coronary Interventions by Hospital: Beginning 2008")
+
+st.markdown(
+    """
+    <hr>
+    <div style='text-align: center;'>
+        <p style='font-size: 1.2em; font-family: "Arial", sans-serif;'>
+            © 2025 All rights reserved by <a href='https://github.com/RobinMillford' target='_blank'><img src='https://img.icons8.com/?size=100&id=LoL4bFzqmAa0&format=png&color=000000' height='30' style='vertical-align: middle;'></a>
+        </p>
+    </div>
+    """,
+    unsafe_allow_html=True
+)
